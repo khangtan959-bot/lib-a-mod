@@ -18,7 +18,7 @@
         </activity>
 
         <meta-data
-            android:name="FCLNativePlugin"
+            android:name="libonmod"
             android:value="true" />
         <meta-data
             android:name="des"
